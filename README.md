@@ -103,5 +103,5 @@ Mentor :
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 <h3>
-<p align="center">:copyright: 2022 | Alterra Academy BE11 :fire:</p>
+<p align="center">:copyright: 2022 | SEGORO :fire:</p>
 </h3>
